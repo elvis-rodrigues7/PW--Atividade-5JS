@@ -1,0 +1,54 @@
+.master {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+
+.travel {
+    text-align: center;
+}
+
+.img1 {
+    margin-left: 50px;
+    width: 150px;
+}
+
+.img2 {
+    margin-top: 20px;
+    width: 150px;
+}
+
+.img3 {
+
+}
+
+.img4 {
+
+}
+
+
+.img1, .img2, .img3, .img4 {
+    cursor: pointer;
+}
+
+.resultado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 47%;
+}
+
+.inv {
+    display: none;
+}
